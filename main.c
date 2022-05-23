@@ -1,7 +1,7 @@
 #ifndef F_CPU
 
 #define F_CPU 16000000UL // clock speed is 16MHz
-
+//coment this
 #endif
 
 #include <avr/io.h>     // AVR header
